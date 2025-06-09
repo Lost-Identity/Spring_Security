@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e6e0265-cb45-49e4-96d6-d7e2c1347810" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../section2/springsecsection2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../section2/springsecsection2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section7/springsecsection7/src/main/java/com/lostidentity/events/AuthenticationEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../section7/springsecsection7/src/main/java/com/lostidentity/events/AuthenticationEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section7/springsecsection7/src/main/java/com/lostidentity/exceptionhandling/CustomAccessDeniedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../section7/springsecsection7/src/main/java/com/lostidentity/exceptionhandling/CustomAccessDeniedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../section7/springsecsection7/src/main/java/com/lostidentity/exceptionhandling/CustomBasicAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../section7/springsecsection7/src/main/java/com/lostidentity/exceptionhandling/CustomBasicAuthenticationEntryPoint.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lost-Identity&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lost-Identity/Spring_Security.git&quot;,
+    &quot;accountId&quot;: &quot;88ea1cea-45ba-470b-b913-d9e78899ce09&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2y7r2zizTQatTOTGgKzRVNItqXo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EazyBankBackendApplicaion.executor": "Debug",
+    "Maven.springsecsection11 [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/losti/Desktop/Spring_Security/section11/springsecsection11"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EazyBankBackendApplicaion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="SPRING_PROFILES_ACTIVE" value="default" />
+        <env name="JWT_SECRET" value="12uhUERwhyt#Ru@&amp;8sdkafuha*(0dfjdfr" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.lostidentity.EazyBankBackendApplicaion" />
+      <module name="springsecsection11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lostidentity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EazyBankBackendApplicaion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6e0265-cb45-49e4-96d6-d7e2c1347810" name="Changes" comment="" />
+      <created>1749196252141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749196252141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lostidentity/controller/UserController.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
